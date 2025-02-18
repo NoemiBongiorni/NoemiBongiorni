@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistical Learning at Politecnico di Milano. Passionate about math, data science, and all things AI, I enjoy exploring the fascinating world of numbers, algorithms, and models
+Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistical Learning at Politecnico di Milano. Passionate about machine learning, data science, AI, computer science. I enjoy exploring the  world of data, algorithms, and models.
 
 📫 Let's Connect!
 
 📧 Email: n.bongiorni@virgilio.it
-💼 LinkedIn: https://www.linkedin.com/in/noemi-bongiorni/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BhHV%2FqBDTQyGrfR%2BXJomuRg%3D%3D
+
+💼 LinkedIn: www.linkedin.com/in/noemi-bongiorni
 Feel free to check out my repositories, and if something catches your eye, let's collaborate! I'm always open to interesting projects and ideas. 🚀
 
 🎓 Education
-- Mathematical Engineering MSc - Statistical Learning, Politecnico di Milano, Milano
+- Mathematical Engineering MSc - Statistical Learning, Politecnico di Milano, Milano (ongoing)
 - Mathematical Engineering BSc, Politecnico di Milano, Milano
 
 🏆 Achievements and Extracurriculars
