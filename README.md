@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistical Learning at Politecnico di Milano. Passionate about machine learning, data science, AI, computer science. I enjoy exploring the  world of data, algorithms, and models.
+Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistical Learning at Politecnico di Milano. Passionate about data science, applied statistics, machine learning, AI, computer science. I enjoy exploring the  world of data, algorithms, and models.
 
 📫 Let's Connect!
 
