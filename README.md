@@ -9,8 +9,6 @@ Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistic
 💼 LinkedIn: www.linkedin.com/in/noemi-bongiorni
 
 
-Feel free to check out my repositories, and if something catches your eye, let's collaborate! I'm always open to interesting projects and ideas. 🚀
-
 🎓 Education
 - Mathematical Engineering MSc - Statistical Learning, Politecnico di Milano, Milano (ongoing)
 - Mathematical Engineering BSc, Politecnico di Milano, Milano
@@ -23,3 +21,6 @@ Feel free to check out my repositories, and if something catches your eye, let's
 - Award recognizing the best freshmen of the academic year, based on exceptional academic performance and overall achievement in the first year of study. 2021 Cambridge Advanced Certification
 - Cambridge Advanced English (CAE) certification, demonstrating proficiency in English at the
     C1 level according to the Common European Framework of Reference for Languages (CEFR). This certification assesses advanced language skills, including reading, writing, listening, and speaking, in both professional and academic contexts.
+
+
+Feel free to check out my repositories, and if something catches your eye, let's collaborate! I'm always open to interesting projects and ideas. 🚀
