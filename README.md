@@ -7,6 +7,8 @@ Welcome to my GitHub page! I'm currently pursuing a Master's degree in Statistic
 📧 Email: n.bongiorni@virgilio.it
 
 💼 LinkedIn: www.linkedin.com/in/noemi-bongiorni
+
+
 Feel free to check out my repositories, and if something catches your eye, let's collaborate! I'm always open to interesting projects and ideas. 🚀
 
 🎓 Education
